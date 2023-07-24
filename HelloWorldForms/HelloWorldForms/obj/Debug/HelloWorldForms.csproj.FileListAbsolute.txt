@@ -1,0 +1,11 @@
+C:\Users\Aslıhan\source\repos\HelloWorldForms\HelloWorldForms\bin\Debug\HelloWorldForms.exe.config
+C:\Users\Aslıhan\source\repos\HelloWorldForms\HelloWorldForms\bin\Debug\HelloWorldForms.exe
+C:\Users\Aslıhan\source\repos\HelloWorldForms\HelloWorldForms\bin\Debug\HelloWorldForms.pdb
+C:\Users\Aslıhan\source\repos\HelloWorldForms\HelloWorldForms\obj\Debug\HelloWorldForms.csproj.AssemblyReference.cache
+C:\Users\Aslıhan\source\repos\HelloWorldForms\HelloWorldForms\obj\Debug\HelloWorldForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aslıhan\source\repos\HelloWorldForms\HelloWorldForms\obj\Debug\HelloWorldForms.Form1.resources
+C:\Users\Aslıhan\source\repos\HelloWorldForms\HelloWorldForms\obj\Debug\HelloWorldForms.Properties.Resources.resources
+C:\Users\Aslıhan\source\repos\HelloWorldForms\HelloWorldForms\obj\Debug\HelloWorldForms.csproj.GenerateResource.cache
+C:\Users\Aslıhan\source\repos\HelloWorldForms\HelloWorldForms\obj\Debug\HelloWorldForms.csproj.CoreCompileInputs.cache
+C:\Users\Aslıhan\source\repos\HelloWorldForms\HelloWorldForms\obj\Debug\HelloWorldForms.exe
+C:\Users\Aslıhan\source\repos\HelloWorldForms\HelloWorldForms\obj\Debug\HelloWorldForms.pdb
